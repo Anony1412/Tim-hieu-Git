@@ -1,3 +1,7 @@
 hello, test push file ne!
 dua nao tao conflic the?
+<<<<<<< HEAD
 khong cho
+=======
+
+>>>>>>> 40d343b3f96a6b5d3392909b8b118debbb80bed5
