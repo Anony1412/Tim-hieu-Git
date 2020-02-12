@@ -1,4 +1,3 @@
 hello, test push file ne!
-<<<<<<< HEAD
 dua nao tao conflic the?
-=======
+asdf
